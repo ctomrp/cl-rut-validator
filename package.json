@@ -1,0 +1,13 @@
+{
+  "name": "@naultinuslabs/cl-rut-validator",
+  "version": "0.0.1",
+  "repository": "git@github.com:naultinuslabs/cl-rut-validator.git",
+  "author": "naultinuslabs <naultinuslabs@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "compile": "tsc && tsc --build tsconfig.es5.json"
+  },  
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
